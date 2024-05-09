@@ -1,4 +1,5 @@
-# Deep Learning Project
+# Image Captioning Model
+Term Project for Deep Learning (CS60010) course, Spring 2024
 
 ## Group Information
 Group 34: Happiness and Souro
