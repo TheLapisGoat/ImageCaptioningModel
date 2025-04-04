@@ -3,8 +3,8 @@ Term Project for Deep Learning (CS60010) course, Spring 2024
 
 ## Group Information
 Group 34: Happiness and Souro
-1. Sourodeep Datta, 21CS10064
-2. Ashwin Prasanth, 21CS30009
+1. [Sourodeep Datta](https://github.com/TheLapisGoat)
+2. [Ashwin Prasanth](https://github.com/ashwinpra)
 3. Anwesha Das, 21CS30007
 4. Sreejita Saha, 21CS30052
 
